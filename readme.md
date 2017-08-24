@@ -1,6 +1,6 @@
 # Current Weather
 
-## A simple project that returns current weather based on IP's location
+#### A simple project that returns current weather based on IP's location
 
 Created to practice using API's
 
